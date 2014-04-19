@@ -1,4 +1,0 @@
-Visualizers
-===========
-
-Advance Data Management
